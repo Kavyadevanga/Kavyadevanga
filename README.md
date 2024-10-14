@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Kavya J, from Bangalore</p>
+<p align="center" >A passionate developer from India 🇮🇳</p>
 
 ###
 
