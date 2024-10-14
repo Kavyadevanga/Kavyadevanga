@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Check out my resume here - <a href="https://drive.google.com/file/d/1TRcBA4fdV1sL4yAQP0FdtQDyyn9yls11/view?usp=sharing" target="_blank"> My Resume</a>a>
+
+<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
