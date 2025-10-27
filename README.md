@@ -7,6 +7,9 @@
 ###
 
 <h2 align="left">About me</h2>
+I’m Kavya J, a passionate Python & Django Developer with hands-on experience in building scalable web applications, REST APIs, and end-to-end feature development. I enjoy turning ideas into real working applications with clean architecture, secure coding practices, and efficient backend logic.
+
+I have worked on projects involving microservices architecture, role-based authentication, real-time data updates, and automation testing using Selenium. I love learning new technologies, improving code quality, and delivering solutions that create real impact.
 
 ###
 
