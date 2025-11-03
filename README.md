@@ -13,7 +13,7 @@ I have worked on projects involving microservices architecture, role-based authe
 
 ###
 
-<p align="left">✨ Check out my resume here - <a href=https://drive.google.com/file/d/1tGFFcaX7dXOJUPqI2Mc4YgH4vKftlwQw/view?usp=sharing" target="_blank"> My Resume</a>
+<p align="left" >✨ Check out my resume here - <a href=https://drive.google.com/file/d/1tGFFcaX7dXOJUPqI2Mc4YgH4vKftlwQw/view?usp=sharing" target="_blank"  rel="noopener noreferrer"> My Resume</a>
 
 ###
 
